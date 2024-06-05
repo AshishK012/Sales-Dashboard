@@ -11,7 +11,7 @@ As a BI professional, you are tasked with building a comprehensive Power BI repo
 - [AdventureWorksLT Database](https://drive.google.com/file/d/1e5CX_-IuvD2FbWUI4-Ju3BZOgLOCeq_f/view?usp=sharing)
 - [Lab Exercise SQL Script](https://drive.google.com/file/d/15u1BwXxN4mnTq8xIHTO9ICOZKi9KCvyZ/view?usp=sharing)
 - [States Table](https://drive.google.com/file/d/1ihRFFEinOS8_lwBTBK3ZVBdZgeDOjCmX/view?usp=sharing)
-- [List of U.S. State and Territory Abbreviations](https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations)
+- [Wikipedia Website](https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations)
 
 ## Power BI Dashboard
 
